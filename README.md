@@ -1,6 +1,6 @@
 # 🎶 METAN - Music App
 ## 🎵 About METAN
-Welcome to **METAN** - a sleek and modern music streaming application designed to offer you an immersive music experience. Whether you're looking to discover new tracks or enjoy your favorite playlists, METAN has you covered with a user-friendly interface and a wide array of features..
+Welcome to **METAN** - a sleek and modern music streaming application designed to offer you an immersive music experience. Whether you're looking to discover new tracks or enjoy your favorite playlists, METAN has you covered with a user-friendly interface and a wide array of features. This project is developed using C# and WinForms.
 ## 🌟 Features
 - **Music Library**: Access a vast library of songs across different genres and artists. Easily search for your favorite tracks or explore new music with curated playlists.
 - **Playlists**: Create, edit, and manage your personal playlists. Save your favorite songs and organize them into collections that suit your mood and activities.
@@ -19,6 +19,8 @@ Ready to use METAN? Follow these steps to get started:
 - Since I use json files to manage data (which I really shouldn't do), the path needs to be exactly as I mentioned in the __🚀 Getting Started__ section above.
 - When you want to add a song to __Playlist__, remember to enter exactly the name of playlist that you want to add.
 ## 🛠️ Technologies Used
-- In this project, I use __C#__ and __Winform__ for development, I have created json files to store and manage data.
+- **Programming Language**: C#.
+- **Framework**: WinForms.
+- **Database Management**: Use json files as database.
 ## 👀 Demo
 ![Demo](./demo/home_page.jpg)
