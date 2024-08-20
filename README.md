@@ -1,6 +1,6 @@
 # 🎶 METAN - Music App
 ## 🎵 About METAN
-Welcome to **METAN** - a sleek and modern music streaming application designed to offer you an immersive music experience. Whether you're looking to discover new tracks or enjoy your favorite playlists, METAN has you covered with a user-friendly interface and a wide array of features. This project is developed using C# and WinForms.
+Welcome to **METAN** - a sleek and modern music streaming application designed to offer you an immersive music experience. Whether you're looking to discover new tracks or enjoy your favorite playlists, METAN has you covered with a user-friendly interface and a wide array of features. This project is developed using __C#__ and __WinForms__.
 ## 🌟 Features
 - **Music Library**: Access a vast library of songs across different genres and artists. Easily search for your favorite tracks or explore new music with curated playlists.
 - **Playlists**: Create, edit, and manage your personal playlists. Save your favorite songs and organize them into collections that suit your mood and activities.
