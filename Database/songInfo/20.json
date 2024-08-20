@@ -1,0 +1,11 @@
+{
+    "ID": "20",
+    "name": "Sunflower",
+    "author": "Post Malone, Swae Lee",
+    "artist": "Post Malone, Swae Lee",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\20.jpg",
+    "download": "0",
+    "background": "#e1030b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\20.mp3",
+    "favorite": false
+}

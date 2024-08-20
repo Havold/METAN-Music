@@ -1,0 +1,11 @@
+{
+    "ID": "4",
+    "name": "Chìm Sâu",
+    "author": "MCK",
+    "artist": "MCK, Trung Trần",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\04.jpg",
+    "download": "0",
+    "background": "#6078dc",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\4.mp3",
+    "favorite": false
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "11",
+    "name": "Cho Ba",
+    "author": "Bray",
+    "artist": "Bray",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\11.jpg",
+    "download": "0",
+    "background": "#411b1b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\11.mp3",
+    "favorite": false
+}

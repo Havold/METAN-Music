@@ -1,0 +1,11 @@
+{
+    "ID": "28",
+    "name": "Let Her Go",
+    "author": "Passenger",
+    "artist": "Passenger",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\28.jpg",
+    "download": "0",
+    "background": "#050585",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\28.mp3",
+    "favorite": false
+}

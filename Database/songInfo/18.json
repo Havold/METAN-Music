@@ -1,0 +1,11 @@
+{
+    "ID": "18",
+    "name": "Goodbyes",
+    "author": "Post Malone, Young Thug",
+    "artist": "Post Malone, Young Thug",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\18.jpg",
+    "download": "0",
+    "background": "#3183a9",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\18.mp3",
+    "favorite": false
+}

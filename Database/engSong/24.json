@@ -1,0 +1,11 @@
+{
+    "ID": "24",
+    "name": "Daylight",
+    "author": "David Kushner",
+    "artist": "David Kushner",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\24.jpg",
+    "download": "0",
+    "background": "#51613b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\24.mp3",
+    "favorite": false
+}

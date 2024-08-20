@@ -1,0 +1,11 @@
+{
+    "ID": "30",
+    "name": "Talking To The Moon",
+    "author": "Bruno Mars",
+    "artist": "Bruno Mars",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\30.jpg",
+    "download": "0",
+    "background": "#f0b422",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\30.mp3",
+    "favorite": false
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "23",
+    "name": "Self Love",
+    "author": "Metro Boomin",
+    "artist": "Metro Boomin",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\23.jpg",
+    "download": "0",
+    "background": "#bb0e68",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\23.mp3",
+    "favorite": false
+}

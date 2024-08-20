@@ -1,0 +1,11 @@
+{
+    "ID": "29",
+    "name": "Glimpse of Us",
+    "author": "Joji",
+    "artist": "Joji",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\29.jpg",
+    "download": "0",
+    "background": "#c3bba4",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\29.mp3",
+    "favorite": false
+}

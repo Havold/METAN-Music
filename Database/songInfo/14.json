@@ -1,0 +1,11 @@
+{
+    "ID": "14",
+    "name": "Tíc Tắc",
+    "author": "Bray",
+    "artist": "Bray",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\14.jpg",
+    "download": "0",
+    "background": "#411b1b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\14.mp3",
+    "favorite": false
+}

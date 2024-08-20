@@ -1,0 +1,11 @@
+{
+  "ID": "1",
+  "name": "Đánh Đổi",
+  "author": "Obito",
+  "artist": "Obito, MCK",
+  "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\01.jpg",
+  "download": 2,
+  "background": "#233a4a",
+  "url": "C:\\C#\\Spotify\\Database\\mp3\\1.mp3",
+  "favorite": true
+}

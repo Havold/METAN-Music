@@ -1,0 +1,11 @@
+{
+    "ID": "19",
+    "name": "death bed",
+    "author": "Powfu",
+    "artist": "Powfu",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\19.jpg",
+    "download": "0",
+    "background": "#b49dca",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\19.mp3",
+    "favorite": false
+}

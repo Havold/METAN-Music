@@ -1,0 +1,11 @@
+{
+    "ID": "25",
+    "name": "Until I Found You",
+    "author": "Stephen Sanchez",
+    "artist": "Stephen Sanchez",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\25.jpg",
+    "download": "0",
+    "background": "#6815bc",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\25.mp3",
+    "favorite": false
+}

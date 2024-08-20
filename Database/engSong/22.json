@@ -1,0 +1,11 @@
+{
+    "ID": "22",
+    "name": "golden hour",
+    "author": "JVKE",
+    "artist": "JVKE",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\22.jpg",
+    "download": "0",
+    "background": "#ac8e1b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\22.mp3",
+    "favorite": false
+}

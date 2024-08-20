@@ -1,0 +1,11 @@
+{
+    "ID": "10",
+    "name": "Welcome To The Show",
+    "author": "Bray",
+    "artist": "Bray",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\10.jpg",
+    "download": "0",
+    "background": "#a679c5",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\10.mp3",
+    "favorite": false
+}

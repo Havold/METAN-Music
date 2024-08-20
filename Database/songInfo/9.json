@@ -1,0 +1,11 @@
+{
+    "ID": "9",
+    "name": "WISH",
+    "author": "GDucky",
+    "artist": "GDucky",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\09.jpg",
+    "download": "0",
+    "background": "#411b1b",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\9.mp3",
+    "favorite": false
+}

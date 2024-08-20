@@ -1,0 +1,11 @@
+{  
+    "ID": "12",
+    "name": "Bạn Đời",
+    "author": "Karik, GDucky",
+    "artist": "Karik, GDucky",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\12.jpg",
+    "download": "0",
+    "background": "#61767e",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\12.mp3",
+    "favorite": false
+}

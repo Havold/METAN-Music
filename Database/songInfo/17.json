@@ -1,0 +1,10 @@
+{
+  "name": "Psycho",
+  "author": "Post Malone,  Dolla $ign",
+  "artist": "Post Malone, Dolla $ign",
+  "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\17.jpg",
+  "download": "0",
+  "background": "#411b1b",
+  "url": "C:\\C#\\Spotify\\Database\\mp3\\17.mp3",
+  "favorite": true
+}

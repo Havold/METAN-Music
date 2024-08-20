@@ -1,0 +1,11 @@
+{
+    "ID": "27",
+    "name": "I Love You So",
+    "author": "The Walters",
+    "artist": "The Walters",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\27.jpg",
+    "download": "0",
+    "background": "#4c4c4c",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\27.mp3",
+    "favorite": false
+}

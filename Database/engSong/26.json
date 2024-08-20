@@ -1,0 +1,11 @@
+{
+    "ID": "26",
+    "name": "Die For Me",
+    "author": "Post Malone, Future, Halsey",
+    "artist": "Post Malone, Future, Halsey",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\26.jpg",
+    "download": "0",
+    "background": "#2b7685",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\26.mp3",
+    "favorite": false
+}

@@ -1,0 +1,11 @@
+{
+  "ID": "21",
+  "name": "Payphone",
+  "author": "Maroon 5, Wiz Khalifa",
+  "artist": "Maroon 5, Wiz Khalifa",
+  "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\21.jpg",
+  "download": 1,
+  "background": "#ca2342",
+  "url": "C:\\C#\\Spotify\\Database\\mp3\\21.mp3",
+  "favorite": false
+}

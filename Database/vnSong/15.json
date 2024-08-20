@@ -1,0 +1,11 @@
+{
+    "ID": "15",
+    "name": "Ta Có Nên",
+    "author": "Bray",
+    "artist": "Bray",
+    "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\15.jpg",
+    "download": "0",
+    "background": "#7e7c61",
+    "url": "C:\\C#\\Spotify\\Database\\mp3\\15.mp3",
+    "favorite": false
+}

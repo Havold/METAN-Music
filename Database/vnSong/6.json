@@ -1,0 +1,11 @@
+{
+  "ID": "6",
+  "name": "Không Thể Say",
+  "author": "Hieuthuhai",
+  "artist": "Hieuthuhai",
+  "imgPath": "C:\\C#\\Spotify\\Database\\songImg\\06.jpg",
+  "download": "0",
+  "background": "#858085",
+  "url": "C:\\C#\\Spotify\\Database\\mp3\\6.mp3",
+  "favorite": true
+}
