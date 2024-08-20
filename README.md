@@ -4,6 +4,8 @@ Welcome to **METAN** - a sleek and modern music streaming application designed t
 ## 🌟 Features
 - **Music Library**: Access a vast library of songs across different genres and artists. Easily search for your favorite tracks or explore new music with curated playlists.
 - **Playlists**: Create, edit, and manage your personal playlists. Save your favorite songs and organize them into collections that suit your mood and activities.
+- **Recent List**: Store the songs you've just listened to.
+- **Favorite List**: Store the songs you like.
 - **High-Quality Audio**: Enjoy crystal-clear sound with support for high-quality audio streaming, giving you the best listening experience possible.
 ## 🌏 Languages 
 - Currently support 1 language: __English__ .
@@ -11,11 +13,12 @@ Welcome to **METAN** - a sleek and modern music streaming application designed t
 Ready to use METAN? Follow these steps to get started:
 1. Create a folder named 'C#' in your computer's C drive. (Required)
 2. Clone this project.
-4. Run file `Spotify.exe` in path `C:\C#\Spotify\BTTH02\bin\Debug\net8.0-windows` and enjoy the app. ✔️
+4. Run file `BTTH02.exe` in path `C:\C#\Spotify\BTTH02\bin\Debug\net8.0-windows` and enjoy the app. ✔️
 ## ⚠️ Important Notice
 - This app doesn't have any __login and registration functionality__ like my other projects.
 - Since I use json files to manage data (which I really shouldn't do), the path needs to be exactly as I mentioned in the __🚀 Getting Started__ section above.
+- When you want to add a song to __Playlist__, remember to enter exactly the name of playlist that you want to add.
 ## 🛠️ Technologies Used
 - In this project, I use __C#__ and __Winform__ for development, I have created json files to store and manage data.
 ## 👀 Demo
-You can see the interface image in the demo folder.
+![Demo](./demo/home_page.jpg)
